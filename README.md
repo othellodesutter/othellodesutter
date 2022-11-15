@@ -1,4 +1,5 @@
 # Othello De Sutter
+
 Graduating student in Applied Computer Science at the Unviversity College Leuven Limburg (UCLL) in Leuven, Belgium.
 Completed an internship at the Huawei Cyber Security Transparency Center in Brussels, Belgium. **Looking for a job in the field of software development, cloud services or cyber security, or the golden mean between them**.
 
@@ -18,6 +19,9 @@ Completed an internship at the Huawei Cyber Security Transparency Center in Brus
 <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="FastApi Badge" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
 
+<div align="center">
+  <img src="/me.jpg" align="center"/>
+</div>
 
 ### Projects I worked on in my spare time
 | Project name | Description | Learned more on |
