@@ -4,12 +4,12 @@ Graduating student in **Applied Computer Science** at the University College Leu
 
 **Looking for a job in the field of software (web app) development, cloud services or cyber security, or even better: the golden mean between them**. (DevSecOps, web scraping, penetration tester...)
 
-### Ways to get in touch with me (please contact me for my CV)
+### Ways to get in touch with me (please contact me for my CV/resume)
 <a href="https://www.linkedin.com/in/othellodesutter/" target="_blank"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: othello.de.sutter@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### Some of the things I learned while persuing my bachelor in Applied Computer Science and I want to keep improving in (in the professional field)
-My curriculum and internship included a broad spectrum of subjects: object-oriented programming (java, design patterns/principles and testing), scripting languages (javascript, bash and python), data management (statistics, databases and sql), web development (spring boot, angular and front-end tools) and computer networking (packet tracer, systems management and security).
+My coursework and internship included a broad spectrum of subjects: object-oriented programming (java, design patterns/principles and testing), scripting languages (javascript, bash and python), data management (statistics, databases and sql), web development (spring boot, angular and front-end tools) and computer networking (packet tracer, systems management and security).
 
 <a><img alt="Python Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 <img alt="Javascript Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
