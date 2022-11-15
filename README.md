@@ -9,7 +9,7 @@ Graduating student in **Applied Computer Science** at the University College Leu
 <a href="mailto: othello.de.sutter@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### Some of the things I learned while persuing my bachelor in Applied Computer Science and I want to keep improving in (in the professional field)
-My coursework and internship included a broad spectrum of subjects: object-oriented programming (java, design patterns/principles and testing), scripting languages (javascript, bash and python), data management (statistics, databases and sql), web development (spring boot, angular and front-end tools) and computer networking (packet tracer, systems management and security).
+My coursework and internship included a broad spectrum of subjects: object-oriented programming (Java, design patterns/principles and testing), scripting languages (JavaScript, Bash and Python), data management (statistics, databases and SQL), web development (SpringBoot, Angular and front-end tools) and computer networking (Packet Tracer, systems management and security).
 
 <a><img alt="Python Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 <img alt="Javascript Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -21,6 +21,7 @@ My coursework and internship included a broad spectrum of subjects: object-orien
 <img alt="Bootstrap Badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="FastApi Badge" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
+<img alt="Bash Badge" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
 <div align="center">
   <img src="/me.jpg" align="center"/>
