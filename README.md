@@ -1,4 +1,9 @@
 | Project name | Description | Learned more on |
 | :---:   | :---: | :---: |
 | [Toledo (Kaltura) video downloader](https://github.com/othellodesutter/toledo-video-downloader) | Lightweight and self-deployable tool to download (Kaltura) videos from courses on Toledo | Python, FastAPI, YoutubeDL, JavaScript, Linode deployment |
+| [Immoweb Telegram bot](https://github.com/othellodesutter/immoweb-telegram-bot) | Telegram bot that notifies the user when a new property that corresponds to their query was added to Immoweb. | Python, API's, Telegram bot development |
 | [NTS tracklist to Spotify playlist](https://github.com/othellodesutter/nts-tracklist-to-spotify-playlist) | Script to convert the tracklist of a given NTS radio show into a Spotify playlist on the account of the user that is logged in. | Python, FastAPI, Spotify API, JavaScript, Oauth2, Beautifulsoup, Web Scraping |
+| [Spotify URL to playlist](https://github.com/othellodesutter/spotify-url-to-playlist) | Browser extension which allows to right-click on a Spotify track URL on any website to automatically add it to a pre-defined Spotify playlist. | Python, Spotify API, JavaScript, Browser extension development, Bootstrap |
+| [VRT NU Downloader](https://github.com/othellodesutter/VRT-NU-Downloader) | Application for downloading whole seasons of series available on VRT NU, a Belgian streaming service. | Python, YoutubeDL, Beautifulsoup, Web Scraping |
+| [2dehands Telegram bot](https://github.com/othellodesutter/2dehands-telegram-bot) | Telegram bot that notifies the user when a new 2dehands listing that corresponds to their search was added to 2dehands. | Python, API's, Telegram bot development |
+| [Facebook Messenger Spotify bot](https://github.com/othellodesutter/Messenger-Spotify-Bot) | A chat bot on Facebook Messenger that automatically adds music tracks sent in the conversation to the user's Spotify playlist. | Python, Fbchat, Spotipy, Heroku deployment |
