@@ -1,6 +1,6 @@
 # Othello De Sutter
 
-Graduating student in **Applied Computer Science** at the Unviversity College Leuven Limburg (UCLL) in Leuven, Belgium. Completed an internship at the **Huawei Cyber Security Transparency Center** in Brussels, Belgium. 
+Graduating student in **Applied Computer Science** at the University College Leuven Limburg (UCLL) in Leuven, Belgium. Completed an internship at the **Huawei Cyber Security Transparency Center** in Brussels, Belgium. 
 
 **Looking for a job in the field of software (web app) development, cloud services or cyber security, or even better: the golden mean between them**. (DevSecOps, web scraping, penetration tester...)
 
