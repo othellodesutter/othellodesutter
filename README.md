@@ -7,6 +7,7 @@ Graduating student in **Applied Computer Science** at the University College Leu
 ## Ways to get in touch with me (please contact me for my CV/resume)
 <a href="https://www.linkedin.com/in/othellodesutter/" target="_blank"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: othello.de.sutter@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/othellodesutter/" target="_blank"><img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ## Some of the things I learned while pursuing my bachelor in Applied Computer Science and I want to keep improving in (in the professional field)
 My coursework and internship included a broad spectrum of subjects: object-oriented programming (Java, design patterns/principles and testing), scripting languages (JavaScript, Bash and Python), data management (statistics, databases and SQL), web development (SpringBoot, Angular and front-end tools) and computer networking (Packet Tracer, Wireshark, systems management and security).
